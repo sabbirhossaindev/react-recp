@@ -15,7 +15,6 @@ const Countries = () => {
 
     return (
         <div>
-            <h1>welcome Countries // { countries.length}</h1>
             {/* step: 5  */}
             <div className='countries-container'>
                 {
