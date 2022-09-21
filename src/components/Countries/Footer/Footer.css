@@ -1,0 +1,9 @@
+.footer{
+    background-color: black;
+    color: antiquewhite;
+    height: 200px;
+    width: 100%;
+}
+.footer h3{
+    padding: 80px;
+}
